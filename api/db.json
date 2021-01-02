@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "great numba 1 stream",
+      "id": 1
+    },
+    {
+      "title": "reuse",
+      "description": "rigig",
+      "userId": "106398861355149237896",
+      "id": 5
+    }
+  ]
+}
